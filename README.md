@@ -1,3 +1,5 @@
+# Disclaimer: This is not originally authored by RESTAR-Inc. This is a fork that contains fixes to our projects use-case that didn't get merged upstream.
+
 # Vue2Editor
 
 > An easy-to-use but yet powerful and customizable rich text editor powered by Quill.js and Vue.js
