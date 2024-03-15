@@ -1,5 +1,5 @@
 {
-  "name": "vue2-editor",
+  "name": "@restar-inc/vue2-editor-patched",
   "version": "2.8.1",
   "description": "HTML editor using Vue.js 2, and Quill.js, an open source editor",
   "author": {
